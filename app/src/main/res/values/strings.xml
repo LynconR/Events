@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">cadastre-se</string>
+    <string name="emailHint">Digite o seu e-mail</string>
+    <string name="senhaHint">Digite a sua senha</string>
+    <string name="mostrarSenha">Mostrar senha</string>
+    <string name="perguntaCadastro">Ainda não possui uma conta?</string>
+    <string name="nomeUsuario">Digite o seu nome de usuário</string>
+    <string name="masculino">masculino</string>
+    <string name="feminino">feminino</string>
+</resources>

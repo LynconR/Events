@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249226322346",
+    "project_id": "events-eca82",
+    "storage_bucket": "events-eca82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249226322346:android:f95255278876636f320bd3",
+        "android_client_info": {
+          "package_name": "br.com.Find.Events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249226322346-vhv83hmof3hmh6j4g4ubervnkpotru80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsQHhJdBtBAfmgIAJWLWFO-vNNgnrQjZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249226322346-vhv83hmof3hmh6j4g4ubervnkpotru80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
